@@ -66,8 +66,8 @@ Ce projet a ete realise dans un but academique afin de pratiquer les notions fon
 ## Structure du projet
 
 - fait par 
-  Mohamed Chaib 
-  Mohamed Amal
+  Mohamed Chaib, 
+  Mohamed Amal,
   Safouane belbacacat
 
 ```text
