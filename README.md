@@ -63,7 +63,7 @@ Ce projet a ete realise dans un but academique afin de pratiquer les notions fon
 
 ---
 
-## Structure du projet
+## Membre de Groupe
 
 - fait par 
   Mohamed Chaib, 
